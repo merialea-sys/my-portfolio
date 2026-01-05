@@ -1,4 +1,4 @@
-# My Personal Website
+# My Portfolio
 *****
 ### Author : Meri Alea August 31st 2025
 *****
